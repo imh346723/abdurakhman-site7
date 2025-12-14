@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #1240AB;
+    color: white;
+}
+.killer2 {
+    text-align: center;
+}
+.killer3 {
+    color: #FFAA00;
+    font-size: 30px;
+    margin-left: 109px;
+}
+ul li {
+    margin-left: 60px;
+    font-size: 20px;
+}
+.killer4 {
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer {
+    background-color: #06266F;
+    color: white;
+    padding: 1px;
+}
+.killer {
+    margin-left: 20px;
+}
